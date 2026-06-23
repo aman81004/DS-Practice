@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aman81004/DS-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/aman81004/DS-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman81004/DS-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/aman81004/DS-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aman81004/DS-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/aman81004/DS-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
