@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aman81004/DS-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aman81004/DS-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman81004/DS-Practice/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/aman81004/DS-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aman81004/DS-Practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/aman81004/DS-Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/aman81004/DS-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aman81004/DS-Practice/tree/master/0053-maximum-subarray) |
