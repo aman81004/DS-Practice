@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aman81004/DS-Practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aman81004/DS-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/aman81004/DS-Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aman81004/DS-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman81004/DS-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aman81004/DS-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/aman81004/DS-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/aman81004/DS-Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aman81004/DS-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
