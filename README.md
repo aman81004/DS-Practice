@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aman81004/DS-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aman81004/DS-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/aman81004/DS-Practice/tree/master/3287-find-the-maximum-sequence-value-of-array) |
+| [3620-network-recovery-pathways](https://github.com/aman81004/DS-Practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman81004/DS-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aman81004/DS-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aman81004/DS-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman81004/DS-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/aman81004/DS-Practice/tree/master/3287-find-the-maximum-sequence-value-of-array) |
+| [3620-network-recovery-pathways](https://github.com/aman81004/DS-Practice/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aman81004/DS-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aman81004/DS-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aman81004/DS-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aman81004/DS-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aman81004/DS-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/aman81004/DS-Practice/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,4 +227,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aman81004/DS-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/aman81004/DS-Practice/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/aman81004/DS-Practice/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/aman81004/DS-Practice/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/aman81004/DS-Practice/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
