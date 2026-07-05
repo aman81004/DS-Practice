@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aman81004/DS-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/aman81004/DS-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aman81004/DS-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/aman81004/DS-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aman81004/DS-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman81004/DS-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aman81004/DS-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aman81004/DS-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/aman81004/DS-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman81004/DS-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1301-number-of-paths-with-max-score](https://github.com/aman81004/DS-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/aman81004/DS-Practice/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3620-network-recovery-pathways](https://github.com/aman81004/DS-Practice/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aman81004/DS-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aman81004/DS-Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aman81004/DS-Practice/tree/master/0074-search-a-2d-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/aman81004/DS-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aman81004/DS-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
