@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aman81004/DS-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman81004/DS-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/aman81004/DS-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aman81004/DS-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/aman81004/DS-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aman81004/DS-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman81004/DS-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/aman81004/DS-Practice/tree/master/0049-group-anagrams) |
 | [1021-remove-outermost-parentheses](https://github.com/aman81004/DS-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aman81004/DS-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/aman81004/DS-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aman81004/DS-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aman81004/DS-Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/aman81004/DS-Practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aman81004/DS-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aman81004/DS-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aman81004/DS-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/aman81004/DS-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aman81004/DS-Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/aman81004/DS-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aman81004/DS-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aman81004/DS-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aman81004/DS-Practice/tree/master/0088-merge-sorted-array) |
