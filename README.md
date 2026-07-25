@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman81004/DS-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aman81004/DS-Practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman81004/DS-Practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman81004/DS-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aman81004/DS-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aman81004/DS-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aman81004/DS-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -260,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman81004/DS-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman81004/DS-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aman81004/DS-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aman81004/DS-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aman81004/DS-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman81004/DS-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Enumeration
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman81004/DS-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aman81004/DS-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aman81004/DS-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aman81004/DS-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
