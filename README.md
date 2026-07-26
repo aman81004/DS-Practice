@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aman81004/DS-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aman81004/DS-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman81004/DS-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman81004/DS-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/aman81004/DS-Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/aman81004/DS-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aman81004/DS-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aman81004/DS-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aman81004/DS-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman81004/DS-Practice/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman81004/DS-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/aman81004/DS-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aman81004/DS-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman81004/DS-Practice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aman81004/DS-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aman81004/DS-Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aman81004/DS-Practice/tree/master/0062-unique-paths) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman81004/DS-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aman81004/DS-Practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aman81004/DS-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aman81004/DS-Practice/tree/master/3312-sorted-gcd-pair-queries) |
