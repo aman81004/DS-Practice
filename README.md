@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/aman81004/DS-Practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman81004/DS-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aman81004/DS-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman81004/DS-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aman81004/DS-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aman81004/DS-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aman81004/DS-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/aman81004/DS-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman81004/DS-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman81004/DS-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman81004/DS-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aman81004/DS-Practice/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/aman81004/DS-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aman81004/DS-Practice/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman81004/DS-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aman81004/DS-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman81004/DS-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aman81004/DS-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aman81004/DS-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman81004/DS-Practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman81004/DS-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aman81004/DS-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aman81004/DS-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aman81004/DS-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aman81004/DS-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aman81004/DS-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman81004/DS-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aman81004/DS-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
