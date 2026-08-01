@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aman81004/DS-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman81004/DS-Practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aman81004/DS-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/aman81004/DS-Practice/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/aman81004/DS-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aman81004/DS-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman81004/DS-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aman81004/DS-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/aman81004/DS-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman81004/DS-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/aman81004/DS-Practice/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/aman81004/DS-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/aman81004/DS-Practice/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aman81004/DS-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aman81004/DS-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aman81004/DS-Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aman81004/DS-Practice/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/aman81004/DS-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aman81004/DS-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aman81004/DS-Practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aman81004/DS-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aman81004/DS-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aman81004/DS-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aman81004/DS-Practice/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/aman81004/DS-Practice/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman81004/DS-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 ## Combinatorics
 |  |
@@ -351,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aman81004/DS-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aman81004/DS-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
