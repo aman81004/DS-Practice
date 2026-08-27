@@ -5,7 +5,7 @@ public:
         int n = nums1.size() ;
         int m = nums2.size() ;
 
-        vector<int> ans ;
+            vector<int> ans ;
 
         ans.insert(ans.end(), nums1.begin(), nums1.end());
         ans.insert(ans.end(), nums2.begin(), nums2.end());
