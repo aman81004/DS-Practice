@@ -439,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/aman81004/DS-Practice/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aman81004/DS-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
